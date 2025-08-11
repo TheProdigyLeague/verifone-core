@@ -1,3 +1,5 @@
+<img width="400" height="600" alt="verifonemagento" src="https://github.com/user-attachments/assets/ba2fbb43-756f-4e76-a06f-70b0b4a8cf92" />
+
 Version: alpha
 
 # Verifone_Payment
